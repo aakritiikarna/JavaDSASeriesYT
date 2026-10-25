@@ -28,5 +28,8 @@ public class DataTypes {
         char grade = 'A';
         System.out.println(grade);
 
+        char firstCharacter = 'a';
+        System.out.println("My First Character is: " + (char)(firstCharacter+2));
+
     }
 }
