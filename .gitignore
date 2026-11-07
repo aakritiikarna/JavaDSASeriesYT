@@ -1,0 +1,7 @@
+*.class
+/build/
+/out/
+/target/
+.env
+.env.*
+!.env.example
